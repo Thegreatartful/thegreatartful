@@ -1,7 +1,7 @@
 <h1>Hi, I'm Stephan! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">A Cybersecurity Professional</a>
 
 <h2>👨‍💻 Projects:</h2>
-- <b> Azure / Cloud Projects</b>
+Azure / Cloud Projects:
 <hr>
   -  <b> <a href= "https://github.com/Thegreatartful/Azure-Soc"> [Creating a live SOC / Honeynet in Azure] </a> </b>
  
